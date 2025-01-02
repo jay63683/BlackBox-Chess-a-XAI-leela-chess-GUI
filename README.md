@@ -113,4 +113,4 @@ Created by Jagbir Brar
 
 
 
-This documentation provides a comprehensive guide to BlackBoxChess while maintaining accessibility for users of all technical levels. The project combines sophisticated chess engine analysis with intuitive visualization tools, making complex AI decision-making processes observable and understandable.
+
