@@ -1,5 +1,8 @@
 (this is an ongoing project the features described below are the only ones avaliable as of now, I will be adding more in depth XAI features other than the heatmap using ONNX tools in the future)
 
+youtube video preview: https://youtu.be/7nbWr8TR6nA
+
+
 ♚ BlackBoxChess: Neural Network Chess Visualization
 
 💡 Overview
